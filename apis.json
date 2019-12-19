@@ -1,0 +1,66 @@
+{
+    "name": "Payfirma",
+    "description": "Payfirma is your one-stop merchant services partner for secure credit card processing. We offer one solution that lets you take payments any way your customers want to pay.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1111-payfirma.jpg",
+    "tags": [
+        "credit",
+        "financial services",
+        "has api",
+        "have api",
+        "javascript",
+        "no api definition",
+        "payments",
+        "target"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/payfirma\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Payfirma",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1111-payfirma.jpg",
+            "humanURL": "http:\/\/www.payfirma.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/payfirma-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Base",
+            "url": "https:\/\/ecom.payfirma.com\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/payfirma-corporation"
+        },
+        {
+            "type": "Developers",
+            "url": "http:\/\/developers.payfirma.com\/"
+        },
+        {
+            "type": "Email",
+            "url": "developers@payfirma.com"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/Payfirma"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/Payfirma"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.payfirma.com"
+        }
+    ]
+}
